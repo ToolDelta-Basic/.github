@@ -1,7 +1,3 @@
-# ToolDelta Studio
-
-![ToolDelta](https://github.com/wling-art/wling-art/assets/90316914/540521e3-65c6-4638-9a41-40eee966d426)
-
 ## Welcome to ToolDelta
 
 我们为网易我的世界租赁服的美好明天而战！
