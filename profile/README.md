@@ -10,10 +10,10 @@
 
 ## 主要维护的项目:
 
-[ToolDelta](https://github.com/ToolDelta/ToolDelta) - ToolDelta 我的世界租赁服Python仿**插件加载器**  
-[ToolDelta插件市场](https://github.com/ToolDelta/PluginMarket) - ToolDelta **插件市场**官方源  
-[SuperLink](https://github.com/ToolDelta/SuperLink) - 服服互通，帮助**租赁服之间**和**租赁服与其他Minecraft服务端**通信  
-[ToolDelta维基百科](https://github.com/ToolDelta/Wiki) - 我们的**维基百科**  
+[ToolDelta](https://github.com/ToolDelta-Basic/ToolDelta) - ToolDelta 我的世界租赁服Python仿**插件加载器**  
+[ToolDelta插件市场](https://github.com/ToolDelta-Basic/PluginMarket) - ToolDelta **插件市场**官方源  
+[SuperLink](https://github.com/ToolDelta-Basic/SuperLink) - 服服互通，帮助**租赁服之间**和**租赁服与其他Minecraft服务端**通信  
+[ToolDelta维基百科](https://wiki.tooldelta.top) - 我们的**维基百科**  
 
 
 ## ToolDelta 技术支持：
